@@ -23,7 +23,7 @@
 | 15 | Marie | Brinkman | Urologist |
 
 ---
-✅ **Solved Questions :**  3.46 - 3.50 
+✅ **Solved Questions :**   3.46 - 3.50 
 ---
 
 ## Table Structure
