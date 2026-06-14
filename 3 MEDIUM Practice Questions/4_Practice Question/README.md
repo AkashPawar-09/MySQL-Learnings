@@ -21,7 +21,7 @@
 | YT | Yukon |
 
 ---
-✅ **Solved Question :**  4.60
+✅ **Solved Question :**   4.60
 ---
 
 ## Table Structure
