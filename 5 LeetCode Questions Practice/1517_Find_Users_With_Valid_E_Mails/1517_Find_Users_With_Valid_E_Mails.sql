@@ -15,4 +15,4 @@ FROM Users
 WHERE mail REGEXP '^[A-Za-z][A-Za-z0-9_.-]*@leetcode\\.com$'
 AND mail LIKE BINARY '%@leetcode.com';
 
--- DEEP UNDERSTANDING Link : 
+-- DEEP UNDERSTANDING Link : https://github.com/AkashPawar-09/MySQL-Learnings/blob/main/1%20Various%20Functions%20and%20Clause%20with%20Examples/6_REGEXP_(Regular%20Expression).sql
